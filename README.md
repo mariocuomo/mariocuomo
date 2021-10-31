@@ -2,7 +2,7 @@
 
 - 👯 I’m looking to collaborate on an open source project
 - 💬 Ask me about everything you want!
-- 📫 How to reach me: [mariocuomo.github.io](mariocuomo.github.io)
+- 📫 How to reach me: [mariocuomo.github.io](https://mariocuomo.github.io/)
 - 😄 Pronouns: He/Him/His
 
 <!--
@@ -17,4 +17,4 @@
 ![](https://github.com/mariocuomo/github-stats/blob/master/generated/languages.svg)
 
 
-You can find more about me on my personal website [mariocuomo.github.io](mariocuomo.github.io) 👈
+You can find more about me on my personal website [mariocuomo.github.io](https://mariocuomo.github.io/) 👈
