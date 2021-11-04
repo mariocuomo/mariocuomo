@@ -13,6 +13,8 @@
 -->
 
 
+![](https://github.com/mariocuomo/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/mariocuomo/github-stats/blob/master/generated/languages.svg)
 
 
 You can find more about me on my personal website [mariocuomo.github.io](https://mariocuomo.github.io/) 👈
