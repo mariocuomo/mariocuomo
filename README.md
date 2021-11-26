@@ -4,6 +4,7 @@
 - 💬 Ask me about everything you want!
 - 📫 How to reach me: [mariocuomo.github.io](https://mariocuomo.github.io/)
 - 😄 Pronouns: He/Him/His
+- 🤔 _A good programmer is someone who always looks both ways before crossing a one-way street._
 
 <!--
 - 🔭 I’m currently working on ...
