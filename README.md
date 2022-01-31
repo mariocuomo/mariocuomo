@@ -1,5 +1,9 @@
 ### Hi there, I am Mario Cuomo!👋
 
+<div align="center">
+  <img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/me-modified.png" width="200"></img>  
+</div>
+
 - 👯 I’m looking to collaborate on an open source project
 - 💬 Ask me about everything you want!
 - 📫 How to reach me: [mariocuomo.github.io](https://mariocuomo.github.io/)
