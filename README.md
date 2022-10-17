@@ -1,7 +1,7 @@
 ### Hi there, I am Mario Cuomo!👋
 
 <div align="center">
-  <img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/me-modified.png" width="150"></img><br>
+  <img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/me_give.png" width="180"></img><br>
   <img src="https://komarev.com/ghpvc/?username=mariocuomo&color=FAC151"></img><br>
 </div>
 
