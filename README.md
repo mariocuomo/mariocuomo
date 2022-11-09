@@ -26,6 +26,7 @@
 <img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/microsoft-certified-security-compliance-and-identity-fundamentals.png" width="100"></img>
 <img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/microsoft-certified-azure-ai-fundamentals.png" width="100"></img>
 <img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/microsoft-certified-azure-fundamentals.png" width="100"></img>
+<img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/microsoft-certified-azure-data-fundamentals.png" width="100"></img>
 
 
 You can find more about me on my personal website [mariocuomo.github.io](https://mariocuomo.github.io/) 👈
