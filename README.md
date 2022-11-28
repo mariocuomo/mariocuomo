@@ -23,6 +23,7 @@
 ![](https://github.com/mariocuomo/github-stats/blob/master/generated/languages.svg)
 
 <img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/microsoft-certified-power-platform-fundamentals.png" width="100"></img>
+<img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/microsoft-365-certified-fundamentals.png" width="100"></img>
 <img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/microsoft-certified-security-compliance-and-identity-fundamentals.png" width="100"></img>
 <img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/microsoft-certified-azure-ai-fundamentals.png" width="100"></img>
 <img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/microsoft-certified-azure-fundamentals.png" width="100"></img>
