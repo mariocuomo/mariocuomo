@@ -22,6 +22,7 @@
 ![](https://github.com/mariocuomo/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/mariocuomo/github-stats/blob/master/generated/languages.svg)
 
+<img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/microsoft-certified-azure-data-scientist-associate.png" width="105"></img>
 <img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/microsoft-certified-power-platform-fundamentals.png" width="100"></img>
 <img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/microsoft-365-certified-fundamentals.png" width="100"></img>
 <img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/microsoft-certified-security-compliance-and-identity-fundamentals.png" width="100"></img>
@@ -30,6 +31,5 @@
 <img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/microsoft-certified-azure-data-fundamentals.png" width="100"></img>
 <img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/SustainabilityBadge.jpg" width="100"></img>
 <img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/Neo4j Certified Professional.png" width="105"></img>
-
 
 You can find more about me on my personal website [mariocuomo.github.io](https://mariocuomo.github.io/) 👈
