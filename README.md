@@ -34,6 +34,15 @@
 <img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/SustainabilityBadge.jpg" width="100"></img>
 <img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/microsoft-certified-trainer-2023-2024.png" width="105"></img>
 <img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/openhack-security-compliance-and-identity.png" width="105"></img>
+<img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/kusto-detective-agency-onboarding.png" width="105"></img>
+<img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/kusto-detective-agency-case-1-badge.1.png" width="105"></img>
+<img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/kusto-detective-agency-case-2-badge.png" width="105"></img>
+<img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/kusto-detective-agency-case-3-badge.1.png" width="105"></img>
+<img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/kusto-detective-agency-case-4-badge.png" width="105"></img>
+<img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/kusto-detective-agency-case-5-badge.png" width="105"></img>
+<img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/kusto-detective-agency-complete.png" width="105"></img>
+<img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/kusto-detective-agency-onboarding.1.png" width="105"></img>
+<img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/kusto-detective-agency-s2e1-badge.png" width="105"></img>
 <img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/Neo4j Certified Professional.png" width="105"></img>
 
 You can find more about me on my personal website [mariocuomo.github.io](https://mariocuomo.github.io/) 👈
