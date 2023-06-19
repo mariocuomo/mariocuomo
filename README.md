@@ -45,6 +45,7 @@
 <img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/kusto-detective-agency-onboarding.1.png" width="105"></img>
 <img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/kusto-detective-agency-s2e1-badge.png" width="105"></img>
 <img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/kusto-detective-agency-s2e2-badge.png" width="105"></img>
+<img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/kusto-detective-agency-s2e3-badge.png" width="105"></img>
 <img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/Neo4j Certified Professional.png" width="105"></img>
 
 You can find more about me on my personal website [mariocuomo.github.io](https://mariocuomo.github.io/) 👈
