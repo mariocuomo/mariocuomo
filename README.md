@@ -32,7 +32,9 @@
 <img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/microsoft-certified-azure-ai-fundamentals.png" width="100"></img>
 <img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/microsoft-certified-azure-fundamentals.png" width="100"></img>
 <img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/microsoft-certified-azure-data-fundamentals.png" width="100"></img>
-<img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/SustainabilityBadge.jpg" width="100"></img>
+<img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/SustainabilityBadge.jpg" width="110"></img>
+<img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/customer-facing-skills-initiative-creative-thinking.png" width="110"></img>
+<img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/accessibility-in-action.png" width="110"></img>
 <img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/microsoft-certified-trainer-2023-2024.png" width="105"></img>
 <img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/openhack-security-compliance-and-identity.png" width="105"></img>
 <img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/kusto-detective-agency-onboarding.png" width="105"></img>
