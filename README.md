@@ -53,6 +53,7 @@
 <img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/new-rank-kusto-senior-detective-ii.png" width="105"></img>
 <img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/kusto-detective-agency-s2e6-badge.png" width="105"></img>
 <img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/kusto-detective-agency-s2e7-badge.png" width="105"></img>
+<img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/kusto-detective-agency-s2e8-badge.png" width="105"></img>
 <img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/github-advanced-security.png" width="105"></img>
 <img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/Neo4j Certified Professional.png" width="105"></img>
 
