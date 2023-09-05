@@ -22,6 +22,7 @@
 ![](https://github.com/mariocuomo/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/mariocuomo/github-stats/blob/master/generated/languages.svg)
 
+<img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/microsoft-certified-cybersecurity-architect-%20expert.png" width="105"></img>
 <img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/microsoft-certified-security-operations-analyst-associate.png" width="105"></img>
 <img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/microsoft-certified-information-protection-administrator-associate.png" width="105"></img>
 <img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/microsoft-certified-identity-and-access-administrator-associate.png" width="105"></img>
