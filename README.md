@@ -55,6 +55,7 @@
 <img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/kusto-detective-agency-s2e6-badge.png" width="105"></img>
 <img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/kusto-detective-agency-s2e7-badge.png" width="105"></img>
 <img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/kusto-detective-agency-s2e8-badge.png" width="105"></img>
+<img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/new-rank-senior-detective-agent.png" width="105"></img>
 <img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/github-advanced-security.png" width="105"></img>
 <img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/microsoft-global-hackathon-2023.png" width="105"></img>
 <img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/microsoft-skillup-ai.png" width="105"></img>
