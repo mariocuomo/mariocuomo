@@ -60,6 +60,9 @@
 <img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/github-advanced-security.png" width="105"></img>
 <img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/microsoft-global-hackathon-2023.png" width="105"></img>
 <img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/microsoft-skillup-ai.png" width="105"></img>
+<img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/azuremon-applied-Skill.png" width="95"></img>
+<img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/sent-applied-Skill.png" width="95"></img>
 <img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/Neo4j Certified Professional.png" width="110"></img>
+
 
 You can find more about me on my personal website [mariocuomo.github.io](https://mariocuomo.github.io/) 👈
